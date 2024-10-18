@@ -1,7 +1,3 @@
-Here is a professional README template for the Exploratory Data Analysis (EDA) project:
-
----
-
 # Exploratory Data Analysis (EDA) with Python
 
 ## Overview
